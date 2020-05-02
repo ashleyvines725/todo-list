@@ -1,0 +1,59 @@
+.container{   
+    display: flex;
+    color:#222222;
+    overflow: hidden;
+    font-size: 20px;
+}
+.accueuil{
+    font-size: 40px;
+}
+
+  
+.line{
+    text-decoration :line-through;
+}
+li{
+    list-style:none ;
+    padding-left: 0px;
+    
+}
+h1{
+    padding-left: 50px;
+}
+
+.btn{
+    border:none;   
+}
+.edit_container{
+    padding-top:20px;
+}
+.taches{
+    padding-right: 260px;
+}
+
+
+ 
+.item{  
+    width: 100px;
+    padding-bottom : 864px;
+    flex-basis:20%;
+    flex-shrink: 0;
+    
+}
+
+
+.left-component{
+    background-color: #F5F5F5; 
+   padding-bottom: 580px;
+   padding-top:20px;
+   font-size: 20px;
+  
+   
+} 
+.principal{
+    padding-top: 100px;
+    padding-left: 90px;
+    font-size: large;
+}
+
+
